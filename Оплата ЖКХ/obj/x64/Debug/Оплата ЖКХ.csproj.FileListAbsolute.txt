@@ -1,0 +1,55 @@
+D:\Daniel\Лева\Оплата ЖКХ\bin\x64\Debug\Оплата ЖКХ.exe.config
+D:\Daniel\Лева\Оплата ЖКХ\bin\x64\Debug\Оплата ЖКХ.exe
+D:\Daniel\Лева\Оплата ЖКХ\bin\x64\Debug\Оплата ЖКХ.pdb
+D:\Daniel\Лева\Оплата ЖКХ\obj\x64\Debug\Оплата ЖКХ.csproj.AssemblyReference.cache
+D:\Daniel\Лева\Оплата ЖКХ\obj\x64\Debug\Оплата ЖКХ.csproj.SuggestedBindingRedirects.cache
+D:\Daniel\Лева\Оплата ЖКХ\obj\x64\Debug\Оплата_ЖКХ.EditApartmentsForm.resources
+D:\Daniel\Лева\Оплата ЖКХ\obj\x64\Debug\Оплата_ЖКХ.MainForm.resources
+D:\Daniel\Лева\Оплата ЖКХ\obj\x64\Debug\Оплата_ЖКХ.Properties.Resources.resources
+D:\Daniel\Лева\Оплата ЖКХ\obj\x64\Debug\Оплата ЖКХ.csproj.GenerateResource.cache
+D:\Daniel\Лева\Оплата ЖКХ\obj\x64\Debug\Оплата ЖКХ.csproj.CoreCompileInputs.cache
+D:\Daniel\Лева\Оплата ЖКХ\obj\x64\Debug\Оплата ЖКХ.exe
+D:\Daniel\Лева\Оплата ЖКХ\obj\x64\Debug\Оплата ЖКХ.pdb
+D:\Daniel\Лева\Оплата ЖКХ\obj\x64\Debug\Оплата_ЖКХ.EditOwnersForm.resources
+D:\Daniel\Лева\Оплата ЖКХ\obj\x64\Debug\Оплата_ЖКХ.EditPaymentsForm.resources
+D:\Daniel\Лева\Курсовая\Оплата ЖКХ\bin\x64\Debug\Оплата ЖКХ.exe.config
+D:\Daniel\Лева\Курсовая\Оплата ЖКХ\bin\x64\Debug\Оплата ЖКХ.exe
+D:\Daniel\Лева\Курсовая\Оплата ЖКХ\bin\x64\Debug\Оплата ЖКХ.pdb
+D:\Daniel\Лева\Курсовая\Оплата ЖКХ\obj\x64\Debug\Оплата ЖКХ.csproj.AssemblyReference.cache
+D:\Daniel\Лева\Курсовая\Оплата ЖКХ\obj\x64\Debug\Оплата ЖКХ.csproj.SuggestedBindingRedirects.cache
+D:\Daniel\Лева\Курсовая\Оплата ЖКХ\obj\x64\Debug\Оплата_ЖКХ.EditApartmentsForm.resources
+D:\Daniel\Лева\Курсовая\Оплата ЖКХ\obj\x64\Debug\Оплата_ЖКХ.EditOwnersForm.resources
+D:\Daniel\Лева\Курсовая\Оплата ЖКХ\obj\x64\Debug\Оплата_ЖКХ.EditPaymentsForm.resources
+D:\Daniel\Лева\Курсовая\Оплата ЖКХ\obj\x64\Debug\Оплата_ЖКХ.MainForm.resources
+D:\Daniel\Лева\Курсовая\Оплата ЖКХ\obj\x64\Debug\Оплата_ЖКХ.Properties.Resources.resources
+D:\Daniel\Лева\Курсовая\Оплата ЖКХ\obj\x64\Debug\Оплата ЖКХ.csproj.GenerateResource.cache
+D:\Daniel\Лева\Курсовая\Оплата ЖКХ\obj\x64\Debug\Оплата ЖКХ.csproj.CoreCompileInputs.cache
+D:\Daniel\Лева\Курсовая\Оплата ЖКХ\obj\x64\Debug\Оплата ЖКХ.exe
+D:\Daniel\Лева\Курсовая\Оплата ЖКХ\obj\x64\Debug\Оплата ЖКХ.pdb
+D:\Daniel\Курсовые 2022\Лева\Курсовая\Оплата ЖКХ\bin\x64\Debug\Оплата ЖКХ.exe.config
+D:\Daniel\Курсовые 2022\Лева\Курсовая\Оплата ЖКХ\bin\x64\Debug\Оплата ЖКХ.exe
+D:\Daniel\Курсовые 2022\Лева\Курсовая\Оплата ЖКХ\bin\x64\Debug\Оплата ЖКХ.pdb
+D:\Daniel\Курсовые 2022\Лева\Курсовая\Оплата ЖКХ\obj\x64\Debug\Оплата ЖКХ.csproj.AssemblyReference.cache
+D:\Daniel\Курсовые 2022\Лева\Курсовая\Оплата ЖКХ\obj\x64\Debug\Оплата ЖКХ.csproj.SuggestedBindingRedirects.cache
+D:\Daniel\Курсовые 2022\Лева\Курсовая\Оплата ЖКХ\obj\x64\Debug\Оплата_ЖКХ.EditApartmentsForm.resources
+D:\Daniel\Курсовые 2022\Лева\Курсовая\Оплата ЖКХ\obj\x64\Debug\Оплата_ЖКХ.EditOwnersForm.resources
+D:\Daniel\Курсовые 2022\Лева\Курсовая\Оплата ЖКХ\obj\x64\Debug\Оплата_ЖКХ.EditPaymentsForm.resources
+D:\Daniel\Курсовые 2022\Лева\Курсовая\Оплата ЖКХ\obj\x64\Debug\Оплата_ЖКХ.MainForm.resources
+D:\Daniel\Курсовые 2022\Лева\Курсовая\Оплата ЖКХ\obj\x64\Debug\Оплата_ЖКХ.Properties.Resources.resources
+D:\Daniel\Курсовые 2022\Лева\Курсовая\Оплата ЖКХ\obj\x64\Debug\Оплата ЖКХ.csproj.GenerateResource.cache
+D:\Daniel\Курсовые 2022\Лева\Курсовая\Оплата ЖКХ\obj\x64\Debug\Оплата ЖКХ.csproj.CoreCompileInputs.cache
+D:\Daniel\Курсовые 2022\Лева\Курсовая\Оплата ЖКХ\obj\x64\Debug\Оплата ЖКХ.exe
+D:\Daniel\Курсовые 2022\Лева\Курсовая\Оплата ЖКХ\obj\x64\Debug\Оплата ЖКХ.pdb
+C:\Users\lesni\Downloads\Курсовая\Курсовая\Оплата ЖКХ\bin\x64\Debug\Оплата ЖКХ.exe.config
+C:\Users\lesni\Downloads\Курсовая\Курсовая\Оплата ЖКХ\bin\x64\Debug\Оплата ЖКХ.exe
+C:\Users\lesni\Downloads\Курсовая\Курсовая\Оплата ЖКХ\bin\x64\Debug\Оплата ЖКХ.pdb
+C:\Users\lesni\Downloads\Курсовая\Курсовая\Оплата ЖКХ\obj\x64\Debug\Оплата ЖКХ.csproj.AssemblyReference.cache
+C:\Users\lesni\Downloads\Курсовая\Курсовая\Оплата ЖКХ\obj\x64\Debug\Оплата_ЖКХ.EditApartmentsForm.resources
+C:\Users\lesni\Downloads\Курсовая\Курсовая\Оплата ЖКХ\obj\x64\Debug\Оплата_ЖКХ.EditOwnersForm.resources
+C:\Users\lesni\Downloads\Курсовая\Курсовая\Оплата ЖКХ\obj\x64\Debug\Оплата_ЖКХ.EditPaymentsForm.resources
+C:\Users\lesni\Downloads\Курсовая\Курсовая\Оплата ЖКХ\obj\x64\Debug\Оплата_ЖКХ.MainForm.resources
+C:\Users\lesni\Downloads\Курсовая\Курсовая\Оплата ЖКХ\obj\x64\Debug\Оплата_ЖКХ.Properties.Resources.resources
+C:\Users\lesni\Downloads\Курсовая\Курсовая\Оплата ЖКХ\obj\x64\Debug\Оплата ЖКХ.csproj.GenerateResource.cache
+C:\Users\lesni\Downloads\Курсовая\Курсовая\Оплата ЖКХ\obj\x64\Debug\Оплата ЖКХ.csproj.CoreCompileInputs.cache
+C:\Users\lesni\Downloads\Курсовая\Курсовая\Оплата ЖКХ\obj\x64\Debug\Оплата ЖКХ.exe
+C:\Users\lesni\Downloads\Курсовая\Курсовая\Оплата ЖКХ\obj\x64\Debug\Оплата ЖКХ.pdb
